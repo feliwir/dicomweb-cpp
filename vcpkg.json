@@ -1,0 +1,9 @@
+{
+  "name": "dicomweb-cpp",
+  "version": "0.1.0",
+  "dependencies": [
+    "dcmtk",
+    "curl",
+    "nlohmann-json"
+  ]
+}
